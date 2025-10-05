@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f9b01983-2afb-4af2-a55a-2405e21b7320" name="Remote Host">
+        <fileTransfer rootFolder="/home/aluno" accessType="SFTP" host="127.0.0.1" port="2222" sshConfigId="5672eebf-6621-4454-8733-1336da6e63b2" sshConfig="aluno@127.0.0.1:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="127.0.0.1" id="5672eebf-6621-4454-8733-1336da6e63b2" port="2222" nameFormat="DESCRIPTIVE" username="aluno" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
