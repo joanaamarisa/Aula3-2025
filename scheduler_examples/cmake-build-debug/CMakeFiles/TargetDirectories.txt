@@ -1,0 +1,5 @@
+C:/Users/joana/CLionProjects/Aula3-2025-master/Aula3-2025-master/scheduler_examples/cmake-build-debug/CMakeFiles/scheduler.dir
+C:/Users/joana/CLionProjects/Aula3-2025-master/Aula3-2025-master/scheduler_examples/cmake-build-debug/CMakeFiles/app.dir
+C:/Users/joana/CLionProjects/Aula3-2025-master/Aula3-2025-master/scheduler_examples/cmake-build-debug/CMakeFiles/app-io.dir
+C:/Users/joana/CLionProjects/Aula3-2025-master/Aula3-2025-master/scheduler_examples/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joana/CLionProjects/Aula3-2025-master/Aula3-2025-master/scheduler_examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
